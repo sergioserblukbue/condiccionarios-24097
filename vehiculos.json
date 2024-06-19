@@ -1,0 +1,18 @@
+{
+    "jku457": {
+        "interior": "s",
+        "exterior": "n",
+        "motor": "n",
+        "encerado": "n",
+        "estado": "terminado",
+        "telefono": "4545"
+    },
+    "ghy898": {
+        "interior": "s",
+        "exterior": "s",
+        "motor": "s",
+        "encerado": "s",
+        "estado": "pendiente",
+        "telefono": "5858"
+    }
+}
